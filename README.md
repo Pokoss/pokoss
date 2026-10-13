@@ -26,7 +26,7 @@ Developed a digital SACCO system supporting member accounts, savings, share purc
 **[Buy Me Rolex](https://buymerolex.org)** — Digital Tipping Platform  
 Built and launched a Mobile Money tipping platform enabling creators and businesses to receive financial support. Developed and maintained under Oravio Technologies.
 
-**Vialey Kankou Tours** — Tourism Website  
+**[Vialey Kankou Tours](https://vialeykankoutours.com)** — Tourism Website  
 Responsible for ongoing website maintenance, content updates, and technical improvements to support the company's online presence.
 
 ### Currently
@@ -38,6 +38,5 @@ Responsible for ongoing website maintenance, content updates, and technical impr
 ### Get in Touch
 
 - **Email:** [pokoss333@gmail.com](mailto:pokoss333@gmail.com)
-- **GitHub:** [github.com/pokoss](https://github.com/pokoss)
 
 *Interested in building reliable software that solves real-world problems.*
