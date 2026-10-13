@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Opoka Daniel 👋
 
-<!--
-**Pokoss/pokoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Software Engineer based in Uganda, specialising in building and maintaining production web and mobile applications.
 
-Here are some ideas to get you started:
+My experience spans healthcare ERP systems, tourism technology, financial platforms, and payment integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Backend:** PHP, Laravel, Python
+- **Frontend:** React, Next.js, Vue.js, JavaScript
+- **Mobile:** Flutter, Dart
+- **Databases:** MySQL, PostgreSQL
+- **DevOps:** Linux, Nginx, Git, VPS Deployment
+
+### What I've Worked On
+- **Medic ERP:** Healthcare management platform for hospitals, clinics, and pharmacies.
+- **Tripesa / ROAMIO AI:** Tourism technology, itinerary builders, subscriptions, and payment systems.
+- **Kikumi Kikumi SACCO:** Digital SACCO platform supporting savings, shares, loans, and Mobile Money payments.
+- **Buy Me Rolex:** Digital tipping platform supporting Mobile Money transactions.
+
+### Connect
+- **Email:** pokoss333@gmail.com
+- **Portfolio:** [Buy Me Rolex](https://buymerolex.org)
