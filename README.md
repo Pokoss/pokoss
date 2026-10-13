@@ -19,4 +19,3 @@ My experience spans healthcare ERP systems, tourism technology, financial platfo
 
 ### Connect
 - **Email:** pokoss333@gmail.com
-- **Portfolio:** [Buy Me Rolex](https://buymerolex.org)
